@@ -66,19 +66,6 @@ git clone https://github.com/your-username/your-repo-name
 cd your-repo-name
 pip install -r requirements.txt
 
-### Screenshots
-Input Form 
-:-------------------:
-![Input - screenshot](https://github.com/SuriyaaVijay/CropForEst--Location-based-Crop-Prediction-and-Estimation/assets/92075531/7067569b-7a05-4c4d-9b72-489817398093)
-Price for 12 months in a district for a crop
-![Price - screenshot](https://github.com/SuriyaaVijay/CropForEst--Location-based-Crop-Prediction-and-Estimation/assets/92075531/ed77d42f-e7e3-4ab9-976f-e3d7f261cecb)
-Result Graph 
-![Graph - screenshot](https://github.com/SuriyaaVijay/CropForEst--Location-based-Crop-Prediction-and-Estimation/assets/92075531/f34840e5-c725-4e66-a990-7f192db546b0) 
 
-## ⚙️ Installation
 
-```bash
-git clone https://github.com/your-username/your-repo-name
-cd your-repo-name
-pip install -r requirements.txt
 
