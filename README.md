@@ -62,8 +62,8 @@ The system aims to improve productivity, reduce risk, and increase profitability
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/your-username/your-repo-name
-cd your-repo-name
+git clone https://github.com/Haifacadiri/Agricultural-Crop-Recommendation-System
+cd Agricultural-Crop-Recommendation-System
 pip install -r requirements.txt
 
 
